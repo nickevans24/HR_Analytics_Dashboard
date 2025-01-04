@@ -11,4 +11,4 @@ The HR Department of a small US-based software development company requested the
 ### Employee Performance
 
 ## Dataset 
-The dataset used in this project is from [kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) and includes names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether they are active or terminated, position title, pay rate, manager name, and performance score.
+The employees dataset used in this project is from [kaggle](https://www.kaggle.com/datasets/rhuebner/human-resources-data-set) and includes names, DOBs, age, gender, marital status, date of hire, reasons for termination, department, whether they are active or terminated, position title, pay rate, manager name, and performance score.
